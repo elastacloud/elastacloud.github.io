@@ -1,0 +1,14 @@
+---
+published: true
+title: BISharp 
+layout: post
+---
+At Elastacloud, we built an SDK for controlling PowerBI with C#. It's key goals are to simplify data access and authentication, allowing easy and rapid access to core PowerBI assets. We want developers to have an experience with PowerBI that is first class and help unlock the innate creative potential of developers. So many developers find getting their data across to end users in a clear way a difficult challenge and we think PowerBI is in a unique position to solve this. Unlocking the delivery of data and coupling that with the easy and extensible visualizations puts the power to innovate in a developers hands. 
+
+When we looked at the PowerBI toolchain we saw a few places that we wanted to help. We created the [Calendar visual](https://github.com/elastacloud/PowerBI-visuals/blob/calendar/src/Clients/Visuals/visuals/calendar.ts) and continue to participate in the active community growing around the extending the variety of visuals available in PowerBI. 
+
+Then we looked at the other side, how to get data into PowerBI and control it in an automated fashion. There's a really great API for that, but all the samples require the crafting of REST requests yourself. That's not the hardest challenge in 2015, but it does slow down the development cycle which is a killer for creativity. 
+
+We set out with a simple challenge; create datasets and tables around .net objects (plain old clr objects - POCOs) and let a developer with an existing solution get creative with their data immediately. No intermediate EventHubs. No staging storage. A collection of class instances in memory, a PowerBI account to add them to ... voila!
+
+[Read More](https://github.com/elastacloud/bisharp/wiki/About)
