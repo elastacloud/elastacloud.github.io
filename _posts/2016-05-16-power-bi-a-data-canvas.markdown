@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Power BI; a data canvas.
 layout: post
 ---
@@ -9,4 +9,4 @@ In typical development scenarios for BI, we host servers, integrate custom data 
 
 Furthermore, we believe that an immersive experience is the way forward for Data Visualisation and there will be brilliant solutions coming that combine 3d environments, augmented reality and holographic computing. The technical barriers are on the UI tier and not the back end analytics system, which PowerBI is the facade for a long chain of analytics technologies; and Elastacloud has been making great strides in solving these tiers with Power BI extensibility.
 
-More on this subject is to come. 
+More on this subject is to come.
