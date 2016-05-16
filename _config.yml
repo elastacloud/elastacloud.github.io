@@ -2,5 +2,5 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://elastacloud.github.io
-title: Elastagames
+title: Elastacloud Blog
 paginate: 10
